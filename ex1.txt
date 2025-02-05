@@ -1,0 +1,4 @@
+O código soma os números de 1 a 13.
+
+Fazendo a conta:
+1 + 2 + 3 + ... + 13 = 91
