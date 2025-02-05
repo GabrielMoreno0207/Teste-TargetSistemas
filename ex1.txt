@@ -1,4 +1,6 @@
 O código soma os números de 1 a 13.
 
+SOMA = 13*(13+1)/2 = 13*14/2= 182/2 = 91
+
 Fazendo a conta:
 1 + 2 + 3 + ... + 13 = 91
